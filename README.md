@@ -20,3 +20,7 @@ Good luck, guys!
 ## 问题
 - 据反映安卓或者Windows客户端可能无法订阅成功，请为添加的每一个节点设置相同的**分组**
 
+订阅地址
+https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=DAYxR3mMaZAsaqUb
+
+https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
